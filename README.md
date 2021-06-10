@@ -17,3 +17,6 @@ WHEN I view future weather conditions for that city
 THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, and the humidity
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
+
+
+![Screen Shot 2021-06-10 at 6 43 56 PM](https://user-images.githubusercontent.com/77689307/121610526-3ca4d180-ca24-11eb-9388-2b4599182ab2.png)
